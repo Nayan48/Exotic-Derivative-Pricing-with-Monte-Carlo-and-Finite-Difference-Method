@@ -1,0 +1,2 @@
+# Exotic-Derivative-Pricing-with-Monte-Carlo-and-Finite-Difference-Method
+This project explores the pricing and sensitivity analysis of exotic derivatives, including Asian and Lookback Options, using Monte Carlo Simulations and Finite Difference Methods. It provides insights into option behavior under varying market conditions, emphasizing numerical techniques for accurate valuation and sensitivity analysis.
