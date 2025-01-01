@@ -161,8 +161,8 @@ The simulation uses **Geometric Brownian Motion (GBM)** to model the stock price
 
 ## File Descriptions
 
-1. **`Exotic_Derivatives_Analysis.pdf`****:** Detailed project report, including methodology, results, and visualizations.
-2. **`Exotic_Derivatives_Analysis.ipynb`****:** Jupyter Notebook containing the Python code for simulations and sensitivity analysis.
+1. **`Exotic Derivatives Pricing and Sensitivity Analysis using Monte Carlo Simulations and Finite Difference Methods.pdf`****:** Detailed project report, including methodology, results, and visualizations.
+2. **`Python - Exotic Derivatives Pricing and Sensitivity Analysis using Monte Carlo Simulations and Finite Difference Methods.ipynb`****:** Jupyter Notebook containing the Python code for simulations and sensitivity analysis.
 
 ---
 
@@ -171,7 +171,7 @@ The simulation uses **Geometric Brownian Motion (GBM)** to model the stock price
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/Exotic-Derivatives-Pricing.git
+   git clone https://github.com/Nayan48/Exotic-Derivative-Pricing-with-Monte-Carlo-and-Finite-Difference-Method.git
    ```
 
 2. **Install Dependencies:**
@@ -183,7 +183,7 @@ The simulation uses **Geometric Brownian Motion (GBM)** to model the stock price
 3. **Run the Jupyter Notebook:**
 
    ```bash
-   jupyter notebook Exotic_Derivatives_Analysis.ipynb
+   jupyter notebook Python - Exotic Derivatives Pricing and Sensitivity Analysis using Monte Carlo Simulations and Finite Difference Methods.ipynb
    ```
 
 4. **Generate Results:**
